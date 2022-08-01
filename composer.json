@@ -1,5 +1,5 @@
 {
-  "name": "metro-markets/feature-flag-bundle",
+  "name": "perlo-software/feature-flag-bundle",
   "description": "Metro Markets Symfony Feature flag Bundle for quickly integration with configcat and other providers.",
   "license": "MIT",
   "autoload": {
